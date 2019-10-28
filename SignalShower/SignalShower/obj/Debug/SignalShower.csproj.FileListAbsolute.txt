@@ -1,0 +1,9 @@
+C:\škola\signalShower\SignalShower\SignalShower\bin\Debug\SignalShower.exe.config
+C:\škola\signalShower\SignalShower\SignalShower\bin\Debug\SignalShower.exe
+C:\škola\signalShower\SignalShower\SignalShower\bin\Debug\SignalShower.pdb
+C:\škola\signalShower\SignalShower\SignalShower\obj\Debug\SignalShower.csprojAssemblyReference.cache
+C:\škola\signalShower\SignalShower\SignalShower\obj\Debug\SignalShower.Properties.Resources.resources
+C:\škola\signalShower\SignalShower\SignalShower\obj\Debug\SignalShower.csproj.GenerateResource.cache
+C:\škola\signalShower\SignalShower\SignalShower\obj\Debug\SignalShower.exe
+C:\škola\signalShower\SignalShower\SignalShower\obj\Debug\SignalShower.pdb
+C:\škola\signalShower\SignalShower\SignalShower\obj\Debug\SignalShower.Form1.resources
